@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\drobV2.0\drobV2.0\main.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  drobV2.0.vcxproj -> C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\drobV2.0\x64\Debug\drobV2.0.exe
